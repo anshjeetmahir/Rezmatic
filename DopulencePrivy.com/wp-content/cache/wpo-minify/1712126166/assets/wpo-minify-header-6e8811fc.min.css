@@ -7225,9 +7225,9 @@ input[type=submit].btn-block {
     border-color: rgba(0, 0, 0, .1)
 }
 
-.navbar-light .navbar-toggler-icon {
-    background-image: url("/DopulencePrivy.com/images/navf.png")
-}
+/* .navbar-light .navbar-toggler-icon {
+    background-image: url("navf.png")
+} */
 
 .navbar-light .navbar-text {
     color: rgba(0, 0, 0, .5)
